@@ -10,4 +10,4 @@ Requisitos:
 
 Protótipo: 
 
-![alt text](AtvCalculadora\Atvcalculadora\prints\prototipo.png)
+![alt text](Atvcalculadora\prints\prototipo.png)
